@@ -4,9 +4,4 @@
 
 # Angular 2 has updated some of its content on set up the environment. 
 
-# The main purpose is to experience the design flow of Angular 2 and see how powerful it actually is.
-<script type= "text/javascript">
-window.onload(
-alert("alert");
-);
-</script>
+# The main purpose is to experience the design flow of Angular 2 and see how powerful it actually is
